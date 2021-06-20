@@ -5,5 +5,3 @@ one
 two
 
 three
-
-four
